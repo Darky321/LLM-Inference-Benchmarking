@@ -1,4 +1,4 @@
-# LLM-Inference-Project_Benchmarking-Results
+# LLM-Inference-Benchmarking
 
 Benchmarking throughput and latency of LLM serving under batching, memory, and quantization constraints on a single NVIDIA T4 (16 GB, compute capability 7.5).
 
